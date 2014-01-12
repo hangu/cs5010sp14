@@ -1,0 +1,34 @@
+Date    Who     Start   Stop    Interruptions   Question        TimeOnTask      Comments
+1/8     HG      23:34   23:50                   10              16              Analysis of Ex10 
+1/8     HG      23:50   23:54                   10              4               tested and fixed the code of Ex10 **Ex10 finished**
+1/9     HG      10:59   11:02                   1               3               Analysis of Ex1, tested the codes **Ex1 finished**
+1/9     HG      11:02   11:04                   2               2               Started working on Ex2 **Ex2 finished**
+1/9     HG      11:04   11:08		        3	        4	        Started working on Ex3 **Ex3 finished** 
+1/9	HG	11:32	11:38			4		6		Started working on Ex4 **Ex4 finished**
+1/9	HG	11:38	11:41			5		3		Started workind on Ex5 **Ex5 finsihed**
+1/9     HG      11:41	11:43			6		2		Analysis of Ex6
+1/9	HG	11:43	11:49			6		6		Started working on the code of Ex6;
+										puzzling over Ex6;
+1/9     HG      11:49	12:07			6		18		Analysis of Ex6 and some tests; **Ex6 finished**
+1/9	HG	12:07	12:11			7		4		Started working on Ex7 ;**Ex7 finished**
+1/9	HG	12:11	12:15			8		4		Started working on Ex8 ;**Ex8 finished**
+1/9	HG	12:15	12:27			9		12		Started working on Ex9 ;**Ex9 finished**
+
+
+
+3/23  MW,IS     14:33  14:48                2        15            Started thinking about Q2
+3/23  MW,IS     14:48  15:11  5             1        23            Hmm, I think we misunderstood what Q1 wanted
+============committing to git: 3/23 15:15 ===================
+3/23  MW,IS,SG  22:03 22:10                 2         7            Still puzzling over Q2; discussed it with sanjay.
+3/23  MW,IS     22:10 22:22                 1        12            regression testing (oops, new version
+                                                                   didn't quite work on previous test cases)
+3/23  MW,IS     22:20 23:00 10+5+5          1        20            fixed tests. **Q1 finished**
+============committing to git: 3/23 23:00 ===================
+3/24  MW,SG     09:30 09:45                 1        15            Explained our interp. of Q1 to Sanjay.
+    
+      //etc.//
+    
+Total Time On Task Q1 (minutes)                  129 
+Total Time On Task Q2 (minutes)                  720 
+TOTQ1 (hours and tenths)                         2.1 
+TOTQ2 (hours and tenths)                         12.0

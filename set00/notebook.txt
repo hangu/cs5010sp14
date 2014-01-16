@@ -13,8 +13,11 @@ Date    Who     Start   Stop    Interruptions   Question        TimeOnTask      
 1/9	HG	12:07	12:11			7		4		Started working on Ex7 ;**Ex7 finished**
 1/9	HG	12:11	12:15			8		4		Started working on Ex8 ;**Ex8 finished**
 1/9	HG	12:15	12:27			9		12		Started working on Ex9 ;**Ex9 finished**
-
-
+1/16	HG	10:25	10:31			11		6		Started working on Ex11;**Ex11 finished**
+1/16	HG	10:31	10:36			12		5		Started working on Ex12;**Ex12 finished**
+1/16	HG	10:36	10:40			13		4		Started working on Ex13;**Ex13 finished**
+1/16	HG	10:40	10:47			14		7		Started working on Ex14;**Ex14 finished**
+1/16	HG	10:47	10:53			15		6		Started working on Ex15;**Ex15 finished**
 
 3/23  MW,IS     14:33  14:48                2        15            Started thinking about Q2
 3/23  MW,IS     14:48  15:11  5             1        23            Hmm, I think we misunderstood what Q1 wanted
